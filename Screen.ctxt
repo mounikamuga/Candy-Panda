@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Screen
+comment0.text=\n\ Defines\ what\ different\ screen\ images\ (like\ the\ Title\ screen,\ etc.)\ can\ do\n\ \n\ @author\ bcanada\n\ @version\ 2014.01.17\n
+comment1.params=screenImage
+comment1.target=Screen(greenfoot.GreenfootImage)
+comment1.text=\n\ Screen\ object\ constructor\ --\ assu,e\ that\ any\ new\ screen\ image\ will\ \n\ be\ transparent\ first\ (and\ will\ "fade\ in"\ later)\n\ \n\ @param\ screenImage\ \ \ \ the\ screen's\ updated\ image\n
+comment2.params=alpha
+comment2.target=void\ setAlpha(int)
+comment2.text=\n\ Sets\ transparency\ (really\ opacity)\ for\ the\ current\ screen\ image\n\ \n\ @param\ alpha\ \ \ \ the\ percentage\ opacity\ level\ (0\ \=\ transparent,\ 100\ \=\ opaque)\n
+comment3.params=screenImage
+comment3.target=void\ setScreen(greenfoot.GreenfootImage)
+comment3.text=\n\ Sets\ the\ screen\ to\ the\ desired\ image\n\ \n\ @param\ screenImage\ \ \ \ the\ screen's\ updated\ image\n
+numComments=4

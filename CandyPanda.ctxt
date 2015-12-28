@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CandyPanda
+comment1.params=
+comment1.target=CandyPanda()
+comment10.params=
+comment10.target=void\ endGame()
+comment11.params=
+comment11.target=void\ populate()
+comment12.params=f\ a\ b
+comment12.target=void\ addObjectFromActor(Candy,\ int,\ int)
+comment2.params=
+comment2.target=void\ showStartScreen()
+comment3.params=
+comment3.target=void\ removeInstructions()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=world
+comment5.target=void\ startTimer(greenfoot.World)
+comment6.params=
+comment6.target=void\ reset()
+comment7.params=score\ fn
+comment7.target=void\ num(int,\ CandyPanda)
+comment8.params=dp\ msg
+comment8.target=void\ getNextLevelMessage(Depict,\ java.lang.String)
+comment9.params=
+comment9.target=void\ getNextLevelButton()
+numComments=13

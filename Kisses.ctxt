@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Kisses
+comment0.text=\n\ Write\ a\ description\ of\ class\ Twix\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Kisses()
+comment2.params=y
+comment2.target=void\ setY(int)
+comment2.text=\n\ \ \ \ public\ void\ act()\ \n\ \ \ \ {\n\ \ \ \ \ \ \ \ path();\n\ \ \ \ }\n
+comment3.params=
+comment3.target=void\ path()
+comment4.params=fn
+comment4.target=void\ remove(CandyPanda)
+comment4.text=\n\ Pop\ this\ kisses.\n
+numComments=5

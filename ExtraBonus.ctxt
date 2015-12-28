@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ExtraBonus
+comment0.text=\n\ Write\ a\ description\ of\ class\ Extra\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Extra\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=ExtraBonus()
+comment3.params=select
+comment3.target=ExtraBonus(ExtraPointType)
+comment4.params=
+comment4.target=ExtraPointType\ getChoice()
+comment5.params=select
+comment5.target=void\ setChoice(ExtraPointType)
+comment6.params=b\ fn
+comment6.target=void\ call(ExtraBonus,\ CandyPanda)
+numComments=7

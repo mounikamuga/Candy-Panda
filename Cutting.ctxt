@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cutting
+comment0.text=\n\ A\ dart\ is\ used\ to\ remove\ balloons.\n\ \n\ @\ author\ Sarika\ Kale\n
+comment1.params=obs
+comment1.target=void\ Cutting(Noticer)
+comment2.params=f\ fn
+comment2.target=void\ notifyObservers(Candy,\ CandyPanda)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

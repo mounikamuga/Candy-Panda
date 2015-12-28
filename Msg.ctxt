@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Msg
+comment0.text=\n\ Write\ a\ description\ of\ class\ Msg\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Msg()
+comment2.params=score\ fw
+comment2.target=void\ update(int,\ CandyPanda)
+numComments=3

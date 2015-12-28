@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Depict
+comment0.text=\n\ Write\ a\ description\ of\ class\ Display\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Depict()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=msg\ candyPanda
+comment3.target=void\ display(java.lang.String,\ CandyPanda)
+comment4.params=candyPanda
+comment4.target=void\ remove(CandyPanda)
+numComments=5
